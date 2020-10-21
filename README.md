@@ -7,7 +7,7 @@ It aims to study in the day-ahead prices in order to predict the prices with hig
 * [Web_scraping_football.ipynb](https://github.com/Shinji1992/code/blob/master/Web_scraping_football.ipynb) shows how extract the football match data.
 
 
-# Environment
+# Environment [(Docker)](https://hub.docker.com/r/shinji1992/code_environment)
 * macOS: 10.15.5
 * Python: 3.7.4
 * Jupyter Notebook: 6.0.3
@@ -21,3 +21,4 @@ It aims to study in the day-ahead prices in order to predict the prices with hig
 * Tensorflow: 2.3.0
 * Requests: 2.23.0
 * Beautifulsoup4: 4.8.2
+
